@@ -1,6 +1,11 @@
-## Before You Start...
+## User Stories
 
-Hooray, a quiz! [https://wdidc6.typeform.com/to/cSxB3l](https://wdidc6.typeform.com/to/cSxB3l)
+As a user I would like to...
+upload a photo using a link
+see all my photos
+delete a photo
+edit or change a photo
+select or maybe search for a single photo
 
 ##WDInstagram
 
